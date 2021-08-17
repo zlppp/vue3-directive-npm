@@ -1,6 +1,6 @@
 # vue3-directive-npm
 ## npm包地址
-[npmjs.com/package/vue3-directive-npm](npmjs.com/package/vue3-directive-npm)
+[npmjs.com/package/vue3-directive-npm](https://www.npmjs.com/package/vue3-directive-npm)
 # 快速上手
 ## 功能描述
 vue3常用自定义指令
