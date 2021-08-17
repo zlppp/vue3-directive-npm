@@ -1,0 +1,28 @@
+{
+  "name": "vue3-directive-npm",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "@babel/preset-typescript": "^7.15.0",
+    "ant-design-vue": "^2.1.6",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "babel-preset-env": "^1.7.0",
+    "clipboard": "^2.0.8",
+    "install": "^0.13.0",
+    "npm": "^7.20.6",
+    "webpack": "^5.50.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.8.0"
+  }
+}
